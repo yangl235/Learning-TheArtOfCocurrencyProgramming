@@ -61,5 +61,4 @@ public class Counter {
     private void count() {
         i++;
     }
-
 }
