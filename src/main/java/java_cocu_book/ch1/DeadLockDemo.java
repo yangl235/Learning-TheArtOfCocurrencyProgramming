@@ -1,4 +1,4 @@
-package ch1;
+package java_cocu_book.ch1;
 
 /**
  * 死锁实验
